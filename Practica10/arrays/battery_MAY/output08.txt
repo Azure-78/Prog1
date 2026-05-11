@@ -1,0 +1,91 @@
+--------------------------------------------------
+TELEVOTE
+--------------------------------------------------
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+Name (1-15 char): 
+Removed country
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+Name (1-15 char): 
+Removed country
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+Name (1-15 char): 
+Removed country
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+Name (1-15 char): 
+Removed country
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+Name (1-15 char): 
+Removed country
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+Name (1-15 char): 
+Removed country
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Confirm exit? (YN): 

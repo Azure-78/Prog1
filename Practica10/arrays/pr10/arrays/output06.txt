@@ -1,0 +1,601 @@
+--------------------------------------------------
+TELEVOTE
+--------------------------------------------------
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Austria;43
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Belgium;32
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Bulgaria;359
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Croatia;385
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Cyprus;357
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Czech_Republic;420
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Denmark;45
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Estonia;372
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Finland;358
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: France;33
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Germany;49
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Greece;30
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Hungary;36
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Ireland;353
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Italy;39
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Latvia;371
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Lithuania;370
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Luxembourg;352
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Malta;356
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Netherlands;31
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Poland;48
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Portugal;351
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Romania;40
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Slovakia;421
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Slovenia;386
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Spain;34
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Sweden;46
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Austria;Belgium;3
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Bulgaria;Croatia;5
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Cyprus;Czech_Republic;4
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Denmark;Estonia;7
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Finland;France;3
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Germany;Greece;3
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Hungary;Ireland;3
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Italy;Latvia;1
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Lithuania;Luxembourg;2
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Malta;Netherlands;3
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Poland;Portugal;1
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Romania;Slovakia;1
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Slovenia;Spain;4
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Add vote
+
+Voter (1-15 char): 
+Voted (1-15 char): 
+Points [1-12]: 
+Vote: Sweden;Spain;6
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Confirm exit? (YN): 

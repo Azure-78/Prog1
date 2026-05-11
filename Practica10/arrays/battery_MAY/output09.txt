@@ -1,0 +1,140 @@
+--------------------------------------------------
+TELEVOTE
+--------------------------------------------------
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+Name (1-15 char): 
+Removed country
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+Name (1-15 char): 
+Removed country
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+Name (1-15 char): 
+Removed country
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Remove country
+
+No countries yet
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Enter operation (NRSALX): 
+Countries:
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Croatia;385
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Cyprus;357
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+New
+
+Name (1-15 char): 
+Code [1-500]: 
+Country: Czech_Republic;420
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Countries:
+Croatia;385
+Cyprus;357
+Czech_Republic;420
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Votes:
+
+N) New country
+R) Remove country
+S) Show countries
+A) Add vote
+L) List votes
+X) Exit
+
+Enter operation (NRSALX): 
+Confirm exit? (YN): 

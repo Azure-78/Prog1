@@ -23,9 +23,9 @@ void boundary(char signo, int n_chars) {
 }
 
 void mark(char mark_input[50]) {
-  boundary('.', 50);
+  boundary('-', 50);
   printf("%s\n", mark_input);
-  boundary('*', 50);
+  boundary('-', 50);
 }
 
 int validate(char validate_input[15]) {
@@ -60,7 +60,7 @@ int take_int(const char *prompt, int maximum) {
     fprintf(stdout, "%s: ", prompt);
     fgets(cadena_int, sizeof(cadena_int), stdin);
     if(sscanf(cadena_int, " %d%s", &int_input, extra_int) == 1){
-      if (int_input >= 0 && int_input <= maximum) {
+      if (int_input >= 1 && int_input <= maximum) {
         return int_input;
       }
     }
@@ -81,5 +81,3 @@ char take_char(const char *prompt, const char *pattern) {
     }
   }
 }
-
-//Vaya Vaya

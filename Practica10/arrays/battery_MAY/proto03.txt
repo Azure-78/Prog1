@@ -1,0 +1,30 @@
+0
+b
+;
+ 
+    
+
+New
+Add
+List
+Remove
+Show
+Wxit
+N A L
+nal
+x
+p
+q
+:
+no
+yes
+n y
+y n
+yn
+ny
+ 
+    
+	
+n
+X
+y
