@@ -1,3 +1,0 @@
-France;14
-Spain;15
-Portugal;56

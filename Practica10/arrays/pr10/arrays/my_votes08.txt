@@ -1,3 +1,0 @@
-1 Austria Belgium 3
-2 Bulgaria Croatia 5
-3 Cyprus Czech_Republic 4
